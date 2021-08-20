@@ -1,0 +1,126 @@
+body {
+    background: url(img/logo.png);
+    margin: 30px;
+}
+
+img {
+    border-radius: 200px;
+}
+
+.aizhamal:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+
+}
+
+.bnurgul:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+
+}
+
+.enurgul:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+
+}
+
+.knurgul:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+}
+
+.mirgul:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+}
+
+.akshookum:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+}
+
+.meerim:hover {
+    -webkit-transform: scale(1.2) translateX(-7px);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2) translateX(-7px);
+    box-shadow:
+    1px 1px #f13123,
+    2px 2px #eef123,
+    3px 3px #91f123,
+    4px 4px #53ea93,
+    5px 5px #53d8ea,
+    6px 6px #536aea,
+    7px 7px #ea53b0;
+
+}
+.sign {
+    float: left; 
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #88FFF7; 
+   }
+   .sign figcaption {
+    margin: 0 auto 5px;
+   }

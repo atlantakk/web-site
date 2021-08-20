@@ -1,0 +1,54 @@
+.sign {
+    float: left; 
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #88FFF7; 
+   }
+   .sign figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .pr-1 {
+    float: left; 
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #88FFF7; 
+   }
+   .pr-1 figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .pr-2 {
+    float: left; 
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #88FFF7; 
+   }
+   .pr-2 figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .pr-3 {
+    float: left; 
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #88FFF7; 
+   }
+   .pr-3 figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   
+   

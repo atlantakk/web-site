@@ -1,0 +1,221 @@
+.sign {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #323636; 
+   }
+   
+   .sign figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+   }
+
+   img:hover {
+    -webkit-transform: translateX(-7px);
+    transform: translateX(-7px);
+    box-shadow:
+    1px 1px #536aea,
+    2px 2px #536aea,
+    3px 3px #536aea,
+    4px 4px #536aea,
+    5px 5px #536aea,
+    6px 6px #536aea,
+    7px 7px #536aea;
+   }
+
+   .star {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .star figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+   
+   }
+
+   .aalam {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .aalam figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .movers {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .movers figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+   }
+
+   .web {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .web figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .cyber {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .cyber figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .ynt {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .ynt figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .dream {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .dream figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .inf {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .inf figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+   
+   .phon {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .phon figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .code {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .code figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+
+   .step {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .step figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+   
+   .creat {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .creat figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+   
+   .tech {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .tech figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+   
+   .kg {
+    float: left; 
+    border: 1px solid rgb(250, 246, 246);
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #f5f8f8; 
+   }
+   
+   .kg figcaption {
+    margin: 0 auto 5px;
+    text-align: center;
+
+   }
+   
